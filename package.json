@@ -1,0 +1,28 @@
+{
+  "name": "jjxc-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "serve": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baddyo/jjxc-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baddyo/jjxc-webpack/issues"
+  },
+  "homepage": "https://github.com/Baddyo/jjxc-webpack#readme",
+  "devDependencies": {
+    "css-loader": "^5.0.0",
+    "style-loader": "^2.0.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.0.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
